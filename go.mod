@@ -1,4 +1,4 @@
-module github.com/Alexxtn105/protos
+module ssov1
 
 go 1.21.6
 
