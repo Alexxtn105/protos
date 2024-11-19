@@ -1,8 +1,8 @@
 # Проект для генерации кода go-файлов из .proto-файлов (для gRPC)
 Для генерации go-файлов из .proto-файлов:
-1. Устанвовить [protoc](https://github.com/protocolbuffers/protobuf/releases)
+1. Установить [protoc](https://github.com/protocolbuffers/protobuf/releases)
 
-2. Прописать путь к папке bin в переменной окружения PATH;
+2. Прописать путь к папке `bin` в переменной окружения `PATH`;
 
 3. Проверить работоспособность командой:
 ```bash
